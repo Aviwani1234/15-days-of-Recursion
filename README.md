@@ -1,8 +1,8 @@
 # Recursion :boom:
 ## Definition: :eye_speech_bubble: 
-### When a function calls itself until a specific condition is met known as "RECURSION".
-
-<br>
+#### When a function calls itself until a specific condition is met known as _"RECURSION"_.
+---
+<br/>
 
 ## Recursion Terminologies  :writing_hand: :
 
@@ -11,14 +11,14 @@
 Base Case is defined as the condition in a Recursive Function, that tells the function when to stop.
 ```
 ##### It is the most important part of every Recursion because if we fail to include this condition it will result in INFINITE RECURSIONS.
-<br>
+<br/>
 
 ### 2. Recurrence Relation :rocket::
 ```
 A recurrence relation is an equation that represents a sequence based on some rule.
 ```
 ##### It helps in finding the subsequent term (next term) dependent upon the preceding term (previous term). If we know the previous term in a given series, then we can easily determine the next term.
-<br>
+<br/>
 
 ### 3. Stack In Recursion :rocket::
 ```
@@ -26,15 +26,16 @@ The computer uses a stack to remember which function call it is currently proces
 ```
 ##### Each time the function is called, a new stack frame is created and added to the top of the stack. This frame contains the function's local variables, parameters, and the return address.
 
-<br>
+<br/>
 
 
 #### :pushpin:  _The main idea behind the Recusion is that it helps you break down bit problems into smaller ones. Often, the recursive solution can be simpler to read than the iterative one. :label:_
 
 ##### 🎥Tutorial Link - https://youtu.be/yVdKa8dnKiE?si=XGjO-nosgVH6XHEw
 
-<br>
-<br>
+<br/>
+
+---
 
 ## DAY-01 :orange_book: :
 ### Problem Solved:
