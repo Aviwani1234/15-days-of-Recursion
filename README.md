@@ -44,3 +44,9 @@ The computer uses a stack to remember which function call it is currently proces
 |1.| Print number from 1 to 5 | [View Solution](./DAY-01/print-1-to-5.cpp)|
 |2.| Print N to 1 | [View Solution](./DAY-01/print-n-to-1.cpp)|
 |3.| Print name N times | [View Solution](./DAY-01/print-name-N-times.cpp)|
+|4.| Print 1 to N backtracking | [View Solution](./DAY-01/print-1-to-n-backtrack.cpp)|
+|5.|Print N to 1 backtracking | [View Solution](./DAY-01/print-n-to-1-backtrack.cpp)|
+
+<br/>
+
+##### 🎥Tutorial Link - https://youtu.be/un6PLygfXrA?si=RDG8drkbR_FzhbeX
