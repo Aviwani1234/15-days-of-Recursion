@@ -45,6 +45,9 @@ void merge(int *arr, int s, int e)
     {
         arr[index++] = second[j++];
     }
+
+    delete []first;
+    delete []second;
 }
 
 void mergeSort(int *arr, int s, int e)
@@ -60,6 +63,7 @@ void mergeSort(int *arr, int s, int e)
     mergeSort(arr, mid + 1, e);
 
     merge(arr, s, e);
+
 }
 
 int main()
