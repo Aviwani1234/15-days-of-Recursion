@@ -55,8 +55,8 @@ void mergeSort(int *arr, int s, int e)
 
     int mid = (s + e) / 2;
 
-    mergeSort(arr, s, mid - 1);
-    mergeSort(arr, mid, e);
+    mergeSort(arr, s, mid);
+    mergeSort(arr, mid+1, e);
 
     merge(arr, s, e);
 }
@@ -66,7 +66,10 @@ int main()
     int n = 5;
     int arr[5] = {2, 1, 3, 5, 4};
     mergeSort(arr, 0, n - 1);
-    
+    for(int i=0;i<n;i++)
+    {
+        cout<<arr[i]<<" ";
+    }
 
     return 0;
 }
