@@ -72,3 +72,18 @@ The computer uses a stack to remember which function call it is currently proces
 <br/>
 
 ---
+
+## DAY-03 :green_book: :
+### Problem Solved:
+| Sr. No. | Title | Solution |
+|---------|-------|----------|
+|1.| 'N'th Fibonacci term | [View Solution](./DAY-03/n-fibo-term.cpp)|
+|2.| Print Subsequences | [View Solution](./DAY-03/print-subsequences.cpp)|
+
+<br/>
+
+##### 🎥Tutorial Link - https://youtu.be/kvRjNm4rVBE?si=ONrW2gme-8VOIW2O
+
+<br/>
+
+---
