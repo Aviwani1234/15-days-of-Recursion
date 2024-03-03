@@ -87,3 +87,13 @@ The computer uses a stack to remember which function call it is currently proces
 <br/>
 
 ---
+
+## DAY-04 :orange_book: :
+### Problem Solved:
+| Sr. No. | Title | Solution |
+|---------|-------|----------|
+|1.| Count subsequence with sum K | [View Solution](./DAY-04/Count_Subsequence_With_Sum_K.cpp)|
+|2.| Print only one subsequence with sum K | [View Solution](./DAY-04/Print_One_Subsequence_With_Sum_K.cpp)|
+|3.| Print subsequences with sum K | [View Solution](./DAY-04/Subsequence_With_Sum_K.cpp)|
+
+<br/>
