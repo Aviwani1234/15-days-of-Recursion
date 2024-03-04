@@ -50,3 +50,50 @@ The computer uses a stack to remember which function call it is currently proces
 <br/>
 
 ##### 🎥Tutorial Link - https://youtu.be/un6PLygfXrA?si=RDG8drkbR_FzhbeX
+
+<br/>
+
+---
+
+## DAY-02 :blue_book: :
+### Problem Solved:
+| Sr. No. | Title | Solution |
+|---------|-------|----------|
+|1.| Factorial of a number N | [View Solution](./DAY-02/factorial-of-n.cpp)|
+|2.| Check string - Palindrome | [View Solution](./DAY-02/palindrom-check-string.cpp)|
+|3.| Recursive sequence | [View Solution](./DAY-02/recursive-sequence.cpp)|
+|4.| Reverse array | [View Solution](./DAY-02/reverse-array.cpp)|
+|5.|Sum of N numbers | [View Solution](./DAY-02/sum-of-n-num.cpp)|
+
+<br/>
+
+##### 🎥Tutorial Link - https://youtu.be/un6PLygfXrA?si=fsqQg7IHQF3ZJXNC
+
+<br/>
+
+---
+
+## DAY-03 :green_book: :
+### Problem Solved:
+| Sr. No. | Title | Solution |
+|---------|-------|----------|
+|1.| 'N'th Fibonacci term | [View Solution](./DAY-03/n-fibo-term.cpp)|
+|2.| Print Subsequences | [View Solution](./DAY-03/print-subsequences.cpp)|
+
+<br/>
+
+##### 🎥Tutorial Link - https://youtu.be/kvRjNm4rVBE?si=ONrW2gme-8VOIW2O
+
+<br/>
+
+---
+
+## DAY-04 :orange_book: :
+### Problem Solved:
+| Sr. No. | Title | Solution |
+|---------|-------|----------|
+|1.| Count subsequence with sum K | [View Solution](./DAY-04/Count_Subsequence_With_Sum_K.cpp)|
+|2.| Print only one subsequence with sum K | [View Solution](./DAY-04/Print_One_Subsequence_With_Sum_K.cpp)|
+|3.| Print subsequences with sum K | [View Solution](./DAY-04/Subsequence_With_Sum_K.cpp)|
+
+<br/>
